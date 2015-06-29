@@ -1,0 +1,19 @@
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\bin\Debug\AutoRender.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\bin\Debug\AutoRender.pdb
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.csprojResolveAssemblyReference.cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.Form1.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.Properties.Resources.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.csproj.GenerateResource.Cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.pdb
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.exe
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.pdb
+E:\Dropbox\Projects\AutoRender\AutoRender\bin\Debug\AutoRender.exe
+E:\Dropbox\Projects\AutoRender\AutoRender\bin\Debug\AutoRender.pdb
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.csprojResolveAssemblyReference.cache
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.Form1.resources
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.Properties.Resources.resources
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.csproj.GenerateResource.Cache
+E:\Dropbox\Projects\AutoRender\AutoRender\bin\Debug\AutoRender.exe.config
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.FrmSettings.resources
+E:\Dropbox\Projects\AutoRender\AutoRender\obj\Debug\AutoRender.CoderForm.resources
